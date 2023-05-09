@@ -2,9 +2,9 @@
 ![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
 
 ## Project Description
-AirBnB console clone project is a replicate of the official AirBnB web application. We worked on the backend of the project whiles interfacing it with a console application with the help of the cmd module in python.
+AirBnB console clone project is a replicate of the official AirBnB web application. We worked on the backend of the project while interfacing it with a console application with the help of the cmd module in python.
 
-Python Objects are serialized stored in a json file and can be deserialized, accessed and used across platforms with the help of the json module in python
+Python Objects are serialized and stored in a json file and can be deserialized, accessed and used across platforms with the help of the json module in python
 
 ## Description of the command interpreter:
 The interface of the application is just like the Bash shell except that this has a limited number of accepted commands that were solely defined for the purposes of the usage of the AirBnB website.
